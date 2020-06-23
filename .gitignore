@@ -1,0 +1,7 @@
+bin/
+bin-init/
+.vscode
+Makefile
+Application/Makefile
+Application/vendor/imgui/bin
+Application/vendor/imgui/bin-int
